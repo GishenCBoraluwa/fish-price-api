@@ -1,0 +1,1938 @@
+2025-08-23 23:45:13,755 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-23 23:45:13,755 - app.main - INFO - API Version: 1.0.0
+2025-08-23 23:45:13,755 - app.main - INFO - Debug Mode: False
+2025-08-23 23:45:13,756 - app.main - INFO - Initializing ML models...
+2025-08-23 23:45:13,756 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-23 23:45:13,757 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:45:13,757 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:45:13,758 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:45:13,758 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-23 23:45:17,225 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-23 23:45:17,225 - app.main - INFO - API Version: 1.0.0
+2025-08-23 23:45:17,226 - app.main - INFO - Debug Mode: False
+2025-08-23 23:45:17,226 - app.main - INFO - Initializing ML models...
+2025-08-23 23:45:17,226 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-23 23:45:17,227 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:45:17,228 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:45:17,228 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:45:17,228 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-23 23:45:17,450 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-23 23:45:26,669 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-23 23:45:26,670 - app.main - INFO - API Version: 1.0.0
+2025-08-23 23:45:26,670 - app.main - INFO - Debug Mode: False
+2025-08-23 23:45:26,671 - app.main - INFO - Initializing ML models...
+2025-08-23 23:45:26,671 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-23 23:45:26,672 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:45:26,672 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:45:26,673 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:45:26,673 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-23 23:46:06,541 - app.main - INFO - Request: GET http://localhost:8000/docs
+2025-08-23 23:46:06,543 - app.main - INFO - Response: 404 - 0.0016s
+2025-08-23 23:46:06,677 - app.main - INFO - Request: GET http://localhost:8000/favicon.ico
+2025-08-23 23:46:06,679 - app.main - INFO - Response: 404 - 0.0014s
+2025-08-23 23:46:13,721 - app.main - INFO - Request: GET http://localhost:8000/
+2025-08-23 23:46:13,723 - app.main - INFO - Response: 200 - 0.0024s
+2025-08-23 23:47:28,305 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-23 23:47:37,516 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-23 23:47:37,516 - app.main - INFO - API Version: 1.0.0
+2025-08-23 23:47:37,517 - app.main - INFO - Debug Mode: False
+2025-08-23 23:47:37,517 - app.main - INFO - Initializing ML models...
+2025-08-23 23:47:37,517 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-23 23:47:37,518 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:47:37,519 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:47:37,519 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:47:37,519 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-23 23:48:09,263 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-23 23:48:09,263 - app.main - INFO - API Version: 1.0.0
+2025-08-23 23:48:09,264 - app.main - INFO - Debug Mode: False
+2025-08-23 23:48:09,264 - app.main - INFO - Initializing ML models...
+2025-08-23 23:48:09,264 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-23 23:48:09,265 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:48:09,266 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:48:09,266 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:48:09,266 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-23 23:48:22,908 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-23 23:48:27,027 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-23 23:48:27,028 - app.main - INFO - API Version: 1.0.0
+2025-08-23 23:48:27,028 - app.main - INFO - Debug Mode: False
+2025-08-23 23:48:27,028 - app.main - INFO - Initializing ML models...
+2025-08-23 23:48:27,028 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-23 23:48:27,029 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:48:27,029 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:48:27,030 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:48:27,030 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-23 23:49:11,849 - app.main - INFO - Request: GET http://localhost:8000/health
+2025-08-23 23:49:11,868 - app.main - INFO - Response: 200 - 0.0186s
+2025-08-23 23:49:27,455 - app.main - INFO - Request: GET http://localhost:8000/docs
+2025-08-23 23:49:27,458 - app.main - INFO - Response: 404 - 0.0027s
+2025-08-23 23:50:39,211 - app.main - INFO - Request: GET http://127.0.0.1:8000/docs
+2025-08-23 23:50:39,213 - app.main - INFO - Response: 404 - 0.0022s
+2025-08-23 23:50:39,478 - app.main - INFO - Request: GET http://127.0.0.1:8000/favicon.ico
+2025-08-23 23:50:39,481 - app.main - INFO - Response: 404 - 0.0027s
+2025-08-23 23:50:51,511 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-23 23:56:42,592 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-23 23:56:42,592 - app.main - INFO - API Version: 1.0.0
+2025-08-23 23:56:42,592 - app.main - INFO - Debug Mode: False
+2025-08-23 23:56:42,593 - app.main - INFO - Initializing ML models...
+2025-08-23 23:56:42,593 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-23 23:56:42,593 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:56:42,594 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:56:42,594 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-23 23:56:42,594 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-23 23:56:47,466 - app.main - INFO - Request: GET http://127.0.0.1:8000/docs
+2025-08-23 23:56:47,469 - app.main - INFO - Response: 200 - 0.0035s
+2025-08-23 23:56:48,168 - app.main - INFO - Request: GET http://127.0.0.1:8000/openapi.json
+2025-08-23 23:56:48,230 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-08-23 23:56:48,261 - app.main - INFO - Response: 200 - 0.0935s
+2025-08-23 23:57:10,416 - app.main - INFO - Request: GET http://127.0.0.1:8000/api/v1/fish-types
+2025-08-23 23:57:10,423 - app.api.v1.endpoints.predictions - INFO - Retrieved 10 supported fish types
+2025-08-23 23:57:10,425 - app.main - INFO - Response: 200 - 0.0086s
+2025-08-23 23:57:31,726 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-23 23:57:31,746 - app.main - INFO - Response: 422 - 0.0202s
+2025-08-23 23:57:38,309 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-23 23:57:38,312 - app.main - INFO - Response: 422 - 0.0037s
+2025-08-23 23:58:32,233 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 00:38:25,754 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 00:38:25,755 - app.main - INFO - API Version: 1.0.0
+2025-08-24 00:38:25,755 - app.main - INFO - Debug Mode: False
+2025-08-24 00:38:25,756 - app.main - INFO - Initializing ML models...
+2025-08-24 00:38:25,756 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 00:38:25,758 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:38:25,758 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:38:25,759 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:38:25,759 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 00:38:38,098 - app.main - INFO - Request: GET http://127.0.0.1:8000/
+2025-08-24 00:38:38,102 - app.main - INFO - Response: 200 - 0.0037s
+2025-08-24 00:38:41,676 - app.main - INFO - Request: GET http://127.0.0.1:8000/
+2025-08-24 00:38:41,681 - app.main - INFO - Response: 200 - 0.0051s
+2025-08-24 00:38:50,545 - app.main - INFO - Request: GET http://127.0.0.1:8000/docs
+2025-08-24 00:38:50,547 - app.main - INFO - Response: 200 - 0.0017s
+2025-08-24 00:38:51,008 - app.main - INFO - Request: GET http://127.0.0.1:8000/openapi.json
+2025-08-24 00:38:51,050 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-08-24 00:38:51,061 - app.main - INFO - Response: 200 - 0.0523s
+2025-08-24 00:39:42,184 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 00:39:42,197 - app.main - INFO - Response: 422 - 0.0130s
+2025-08-24 00:41:14,508 - app.main - INFO - Request: GET http://127.0.0.1:8000/health
+2025-08-24 00:41:14,510 - app.main - INFO - Response: 200 - 0.0029s
+2025-08-24 00:41:16,666 - app.main - INFO - Request: GET http://127.0.0.1:8000/health
+2025-08-24 00:41:16,668 - app.main - INFO - Response: 200 - 0.0016s
+2025-08-24 00:41:28,607 - app.main - INFO - Request: GET http://127.0.0.1:8000/ready
+2025-08-24 00:41:28,613 - app.main - INFO - Response: 200 - 0.0062s
+2025-08-24 00:41:43,256 - app.main - INFO - Request: GET http://127.0.0.1:8000/live
+2025-08-24 00:41:43,258 - app.main - INFO - Response: 200 - 0.0019s
+2025-08-24 00:41:45,467 - app.main - INFO - Request: GET http://127.0.0.1:8000/live
+2025-08-24 00:41:45,469 - app.main - INFO - Response: 200 - 0.0022s
+2025-08-24 00:41:57,098 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 00:41:57,103 - app.main - INFO - Response: 422 - 0.0044s
+2025-08-24 00:44:07,097 - app.main - INFO - Request: GET http://127.0.0.1:8000/api/v1/fish-types
+2025-08-24 00:44:07,099 - app.api.v1.endpoints.predictions - INFO - Retrieved 7 supported fish types
+2025-08-24 00:44:07,100 - app.main - INFO - Response: 200 - 0.0023s
+2025-08-24 00:47:36,546 - app.main - INFO - Request: GET http://127.0.0.1:8000/metrics
+2025-08-24 00:47:36,547 - app.main - INFO - Response: 200 - 0.0011s
+2025-08-24 00:53:16,094 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 00:53:21,586 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 00:53:21,586 - app.main - INFO - API Version: 1.0.0
+2025-08-24 00:53:21,586 - app.main - INFO - Debug Mode: False
+2025-08-24 00:53:21,587 - app.main - INFO - Initializing ML models...
+2025-08-24 00:53:21,587 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 00:53:21,588 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:53:21,588 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:53:21,589 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:53:21,589 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 00:55:58,683 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 00:56:04,464 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 00:56:04,464 - app.main - INFO - API Version: 1.0.0
+2025-08-24 00:56:04,464 - app.main - INFO - Debug Mode: False
+2025-08-24 00:56:04,466 - app.main - INFO - Initializing ML models...
+2025-08-24 00:56:04,466 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 00:56:04,467 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:56:04,467 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:56:04,468 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:56:04,468 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 00:56:48,231 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 00:56:55,309 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 00:56:55,310 - app.main - INFO - API Version: 1.0.0
+2025-08-24 00:56:55,310 - app.main - INFO - Debug Mode: False
+2025-08-24 00:56:55,311 - app.main - INFO - Initializing ML models...
+2025-08-24 00:56:55,311 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 00:56:55,318 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:56:55,320 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:56:55,324 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:56:55,325 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 00:57:18,682 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 00:58:21,421 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 00:58:21,422 - app.main - INFO - API Version: 1.0.0
+2025-08-24 00:58:21,422 - app.main - INFO - Debug Mode: False
+2025-08-24 00:58:21,422 - app.main - INFO - Initializing ML models...
+2025-08-24 00:58:21,423 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 00:58:21,441 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:58:21,441 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:58:21,442 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:58:21,442 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 00:58:28,024 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 00:58:28,025 - app.main - INFO - API Version: 1.0.0
+2025-08-24 00:58:28,025 - app.main - INFO - Debug Mode: False
+2025-08-24 00:58:28,026 - app.main - INFO - Initializing ML models...
+2025-08-24 00:58:28,026 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 00:58:28,028 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:58:28,028 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:58:28,030 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 00:58:28,031 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 00:58:38,332 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 00:58:38,338 - app.api.v1.endpoints.predictions - INFO - Received prediction request for Yellowfin tuna - Kelawalla
+2025-08-24 00:58:38,338 - app.services.prediction_service - INFO - Making prediction for Yellowfin tuna - Kelawalla, 7 days
+2025-08-24 00:58:38,339 - app.services.prediction_service - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 00:58:38,339 - app.api.v1.endpoints.predictions - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 00:58:38,341 - app.main - ERROR - Unexpected error in POST http://127.0.0.1:8000/api/v1/predict: Object of type datetime is not JSON serializable
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 77, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 183, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 772, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 117, in log_requests
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    |     response = await handler(conn, exc)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    |     return JSONResponse(
+    |         {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    |     )
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    |     super().__init__(content, status_code, headers, media_type, background)
+    |     ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    |     self.body = self.render(content)
+    |                 ~~~~~~~~~~~^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    |     return json.dumps(
+    |            ~~~~~~~~~~^
+    |         content,
+    |         ^^^^^^^^
+    |     ...<3 lines>...
+    |         separators=(",", ":"),
+    |         ^^^^^^^^^^^^^^^^^^^^^^
+    |     ).encode("utf-8")
+    |     ^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    |     **kw).encode(obj)
+    |           ~~~~~~^^^^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    |     chunks = self.iterencode(o, _one_shot=True)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    |     return _iterencode(o, 0)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    |     raise TypeError(f'Object of type {o.__class__.__name__} '
+    |                     f'is not JSON serializable')
+    | TypeError: Object of type datetime is not JSON serializable
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 117, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    response = await handler(conn, exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    return JSONResponse(
+        {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    )
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    self.body = self.render(content)
+                ~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    return json.dumps(
+           ~~~~~~~~~~^
+        content,
+        ^^^^^^^^
+    ...<3 lines>...
+        separators=(",", ":"),
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ).encode("utf-8")
+    ^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type datetime is not JSON serializable
+2025-08-24 00:59:55,060 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 01:02:59,486 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 01:02:59,486 - app.main - INFO - API Version: 1.0.0
+2025-08-24 01:02:59,486 - app.main - INFO - Debug Mode: False
+2025-08-24 01:02:59,487 - app.main - INFO - Initializing ML models...
+2025-08-24 01:02:59,487 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 01:02:59,487 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:02:59,488 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:02:59,488 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:02:59,488 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 01:03:03,080 - app.main - INFO - Request: GET http://127.0.0.1:8000/docs
+2025-08-24 01:03:03,082 - app.main - INFO - Response: 200 - 0.0020s
+2025-08-24 01:03:03,514 - app.main - INFO - Request: GET http://127.0.0.1:8000/openapi.json
+2025-08-24 01:03:03,575 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-08-24 01:03:03,619 - app.main - INFO - Response: 200 - 0.1048s
+2025-08-24 01:03:08,861 - app.main - INFO - Request: GET http://127.0.0.1:8000/docs
+2025-08-24 01:03:08,863 - app.main - INFO - Response: 200 - 0.0018s
+2025-08-24 01:03:09,095 - app.main - INFO - Request: GET http://127.0.0.1:8000/openapi.json
+2025-08-24 01:03:09,113 - app.main - INFO - Response: 200 - 0.0185s
+2025-08-24 01:03:16,620 - app.main - INFO - Request: GET http://127.0.0.1:8000/health
+2025-08-24 01:03:16,623 - app.main - INFO - Response: 200 - 0.0027s
+2025-08-24 01:03:18,644 - app.main - INFO - Request: GET http://127.0.0.1:8000/health
+2025-08-24 01:03:18,647 - app.main - INFO - Response: 200 - 0.0033s
+2025-08-24 01:03:31,567 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 01:03:31,580 - app.main - INFO - Response: 422 - 0.0131s
+2025-08-24 01:03:33,499 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 01:03:33,507 - app.main - INFO - Response: 422 - 0.0088s
+2025-08-24 01:03:57,449 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 01:03:57,454 - app.api.v1.endpoints.predictions - INFO - Received prediction request for Yellowfin tuna - Kelawalla
+2025-08-24 01:03:57,455 - app.services.prediction_service - INFO - Making prediction for Yellowfin tuna - Kelawalla, 7 days
+2025-08-24 01:03:57,456 - app.services.prediction_service - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 01:03:57,456 - app.api.v1.endpoints.predictions - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 01:03:57,458 - app.main - ERROR - Unexpected error in POST http://127.0.0.1:8000/api/v1/predict: Object of type datetime is not JSON serializable
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 77, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 183, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 772, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 118, in log_requests
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    |     response = await handler(conn, exc)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    |     return JSONResponse(
+    |         {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    |     )
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    |     super().__init__(content, status_code, headers, media_type, background)
+    |     ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    |     self.body = self.render(content)
+    |                 ~~~~~~~~~~~^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    |     return json.dumps(
+    |            ~~~~~~~~~~^
+    |         content,
+    |         ^^^^^^^^
+    |     ...<3 lines>...
+    |         separators=(",", ":"),
+    |         ^^^^^^^^^^^^^^^^^^^^^^
+    |     ).encode("utf-8")
+    |     ^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    |     **kw).encode(obj)
+    |           ~~~~~~^^^^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    |     chunks = self.iterencode(o, _one_shot=True)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    |     return _iterencode(o, 0)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    |     raise TypeError(f'Object of type {o.__class__.__name__} '
+    |                     f'is not JSON serializable')
+    | TypeError: Object of type datetime is not JSON serializable
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 118, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    response = await handler(conn, exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    return JSONResponse(
+        {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    )
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    self.body = self.render(content)
+                ~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    return json.dumps(
+           ~~~~~~~~~~^
+        content,
+        ^^^^^^^^
+    ...<3 lines>...
+        separators=(",", ":"),
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ).encode("utf-8")
+    ^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type datetime is not JSON serializable
+2025-08-24 01:05:34,244 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 01:05:40,172 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 01:05:40,173 - app.main - INFO - API Version: 1.0.0
+2025-08-24 01:05:40,173 - app.main - INFO - Debug Mode: False
+2025-08-24 01:05:40,173 - app.main - INFO - Initializing ML models...
+2025-08-24 01:05:40,174 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 01:05:40,175 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:05:40,175 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:05:40,176 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:05:40,176 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 01:05:43,329 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 01:05:50,449 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 01:05:50,449 - app.main - INFO - API Version: 1.0.0
+2025-08-24 01:05:50,449 - app.main - INFO - Debug Mode: False
+2025-08-24 01:05:50,450 - app.main - INFO - Initializing ML models...
+2025-08-24 01:05:50,450 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 01:05:50,451 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:05:50,452 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:05:50,453 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:05:50,454 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 01:05:50,943 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 01:05:50,957 - app.api.v1.endpoints.predictions - INFO - Received prediction request for Yellowfin tuna - Kelawalla
+2025-08-24 01:05:50,958 - app.services.prediction_service - INFO - Making prediction for Yellowfin tuna - Kelawalla, 7 days
+2025-08-24 01:05:50,960 - app.services.prediction_service - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 01:05:50,962 - app.api.v1.endpoints.predictions - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 01:05:50,964 - app.main - ERROR - Unexpected error in POST http://127.0.0.1:8000/api/v1/predict: Object of type datetime is not JSON serializable
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 77, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 183, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 772, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 118, in log_requests
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    |     response = await handler(conn, exc)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    |     return JSONResponse(
+    |         {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    |     )
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    |     super().__init__(content, status_code, headers, media_type, background)
+    |     ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    |     self.body = self.render(content)
+    |                 ~~~~~~~~~~~^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    |     return json.dumps(
+    |            ~~~~~~~~~~^
+    |         content,
+    |         ^^^^^^^^
+    |     ...<3 lines>...
+    |         separators=(",", ":"),
+    |         ^^^^^^^^^^^^^^^^^^^^^^
+    |     ).encode("utf-8")
+    |     ^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    |     **kw).encode(obj)
+    |           ~~~~~~^^^^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    |     chunks = self.iterencode(o, _one_shot=True)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    |     return _iterencode(o, 0)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    |     raise TypeError(f'Object of type {o.__class__.__name__} '
+    |                     f'is not JSON serializable')
+    | TypeError: Object of type datetime is not JSON serializable
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 118, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    response = await handler(conn, exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    return JSONResponse(
+        {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    )
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    self.body = self.render(content)
+                ~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    return json.dumps(
+           ~~~~~~~~~~^
+        content,
+        ^^^^^^^^
+    ...<3 lines>...
+        separators=(",", ":"),
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ).encode("utf-8")
+    ^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type datetime is not JSON serializable
+2025-08-24 01:07:24,753 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 01:07:31,425 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 01:07:31,426 - app.main - INFO - API Version: 1.0.0
+2025-08-24 01:07:31,426 - app.main - INFO - Debug Mode: False
+2025-08-24 01:07:31,427 - app.main - INFO - Initializing ML models...
+2025-08-24 01:07:31,427 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 01:07:31,428 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:07:31,429 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:07:31,429 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:07:31,429 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 01:07:34,231 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 01:07:34,231 - app.main - INFO - API Version: 1.0.0
+2025-08-24 01:07:34,232 - app.main - INFO - Debug Mode: False
+2025-08-24 01:07:34,232 - app.main - INFO - Initializing ML models...
+2025-08-24 01:07:34,232 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 01:07:34,233 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:07:34,233 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:07:34,234 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 01:07:34,234 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 01:07:42,359 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 10:55:09,290 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 10:55:09,291 - app.main - INFO - API Version: 1.0.0
+2025-08-24 10:55:09,292 - app.main - INFO - Debug Mode: False
+2025-08-24 10:55:09,292 - app.main - INFO - Initializing ML models...
+2025-08-24 10:55:09,292 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 10:55:09,293 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:55:09,294 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:55:09,294 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:55:09,295 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 10:55:09,333 - app.main - INFO - Request: GET http://127.0.0.1:8000/
+2025-08-24 10:55:09,338 - app.main - INFO - Response: 200 - 0.0051s
+2025-08-24 10:55:09,473 - app.main - INFO - Request: GET http://127.0.0.1:8000/favicon.ico
+2025-08-24 10:55:09,474 - app.main - INFO - Response: 404 - 0.0018s
+2025-08-24 10:55:10,493 - app.main - INFO - Request: GET http://127.0.0.1:8000/docs
+2025-08-24 10:55:10,496 - app.main - INFO - Response: 200 - 0.0031s
+2025-08-24 10:55:10,678 - app.main - INFO - Request: GET http://127.0.0.1:8000/openapi.json
+2025-08-24 10:55:10,719 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-08-24 10:55:10,735 - app.main - INFO - Response: 200 - 0.0567s
+2025-08-24 10:55:46,307 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 10:55:51,095 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 10:55:51,096 - app.main - INFO - API Version: 1.0.0
+2025-08-24 10:55:51,097 - app.main - INFO - Debug Mode: False
+2025-08-24 10:55:51,097 - app.main - INFO - Initializing ML models...
+2025-08-24 10:55:51,098 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 10:55:51,099 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:55:51,100 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:55:51,101 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:55:51,101 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 10:55:53,397 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 10:55:57,618 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 10:55:57,619 - app.main - INFO - API Version: 1.0.0
+2025-08-24 10:55:57,619 - app.main - INFO - Debug Mode: False
+2025-08-24 10:55:57,620 - app.main - INFO - Initializing ML models...
+2025-08-24 10:55:57,621 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 10:55:57,622 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:55:57,622 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:55:57,623 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:55:57,623 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 10:56:12,898 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 10:56:17,458 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 10:56:17,458 - app.main - INFO - API Version: 1.0.0
+2025-08-24 10:56:17,459 - app.main - INFO - Debug Mode: False
+2025-08-24 10:56:17,459 - app.main - INFO - Initializing ML models...
+2025-08-24 10:56:17,460 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 10:56:17,461 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:56:17,461 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:56:17,462 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:56:17,462 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 10:56:17,474 - app.main - INFO - Request: GET http://127.0.0.1:8000/docs
+2025-08-24 10:56:17,476 - app.main - INFO - Response: 200 - 0.0018s
+2025-08-24 10:56:17,602 - app.main - INFO - Request: GET http://127.0.0.1:8000/openapi.json
+2025-08-24 10:56:17,661 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-08-24 10:56:17,685 - app.main - INFO - Response: 200 - 0.0831s
+2025-08-24 10:56:30,898 - app.main - INFO - Request: GET http://127.0.0.1:8000/health
+2025-08-24 10:56:30,904 - app.main - INFO - Response: 200 - 0.0058s
+2025-08-24 10:56:48,322 - app.main - INFO - Request: GET http://127.0.0.1:8000/ready
+2025-08-24 10:56:48,330 - app.main - INFO - Response: 200 - 0.0087s
+2025-08-24 10:57:01,402 - app.main - INFO - Request: GET http://127.0.0.1:8000/live
+2025-08-24 10:57:01,403 - app.main - INFO - Response: 200 - 0.0018s
+2025-08-24 10:58:17,756 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 10:58:17,764 - app.api.v1.endpoints.predictions - INFO - Received prediction request for Yellowfin tuna - Kelawalla
+2025-08-24 10:58:17,764 - app.services.prediction_service - INFO - Making prediction for Yellowfin tuna - Kelawalla, 7 days
+2025-08-24 10:58:17,765 - app.services.prediction_service - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 10:58:17,765 - app.api.v1.endpoints.predictions - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 10:58:17,766 - app.main - ERROR - Unexpected error in POST http://127.0.0.1:8000/api/v1/predict: Object of type datetime is not JSON serializable
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 77, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 183, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 772, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 117, in log_requests
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    |     response = await handler(conn, exc)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    |     return JSONResponse(
+    |         {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    |     )
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    |     super().__init__(content, status_code, headers, media_type, background)
+    |     ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    |     self.body = self.render(content)
+    |                 ~~~~~~~~~~~^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    |     return json.dumps(
+    |            ~~~~~~~~~~^
+    |         content,
+    |         ^^^^^^^^
+    |     ...<3 lines>...
+    |         separators=(",", ":"),
+    |         ^^^^^^^^^^^^^^^^^^^^^^
+    |     ).encode("utf-8")
+    |     ^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    |     **kw).encode(obj)
+    |           ~~~~~~^^^^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    |     chunks = self.iterencode(o, _one_shot=True)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    |     return _iterencode(o, 0)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    |     raise TypeError(f'Object of type {o.__class__.__name__} '
+    |                     f'is not JSON serializable')
+    | TypeError: Object of type datetime is not JSON serializable
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 117, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    response = await handler(conn, exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    return JSONResponse(
+        {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    )
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    self.body = self.render(content)
+                ~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    return json.dumps(
+           ~~~~~~~~~~^
+        content,
+        ^^^^^^^^
+    ...<3 lines>...
+        separators=(",", ":"),
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ).encode("utf-8")
+    ^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type datetime is not JSON serializable
+2025-08-24 10:59:47,765 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 10:59:52,137 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 10:59:52,138 - app.main - INFO - API Version: 1.0.0
+2025-08-24 10:59:52,138 - app.main - INFO - Debug Mode: False
+2025-08-24 10:59:52,139 - app.main - INFO - Initializing ML models...
+2025-08-24 10:59:52,139 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 10:59:52,140 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:59:52,141 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:59:52,141 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 10:59:52,142 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 10:59:56,722 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 11:00:01,089 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 11:00:01,089 - app.main - INFO - API Version: 1.0.0
+2025-08-24 11:00:01,090 - app.main - INFO - Debug Mode: False
+2025-08-24 11:00:01,090 - app.main - INFO - Initializing ML models...
+2025-08-24 11:00:01,091 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 11:00:01,091 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 11:00:01,092 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 11:00:01,092 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 11:00:01,093 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 11:00:26,308 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 11:00:26,321 - app.api.v1.endpoints.predictions - INFO - Received prediction request for Yellowfin tuna - Kelawalla
+2025-08-24 11:00:26,321 - app.services.prediction_service - INFO - Making prediction for Yellowfin tuna - Kelawalla, 7 days
+2025-08-24 11:00:26,322 - app.services.prediction_service - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 11:00:26,323 - app.api.v1.endpoints.predictions - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 11:00:26,325 - app.main - ERROR - Unexpected error in POST http://127.0.0.1:8000/api/v1/predict: Object of type datetime is not JSON serializable
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 77, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 183, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 772, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 117, in log_requests
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    |     response = await handler(conn, exc)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    |     return JSONResponse(
+    |         {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    |     )
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    |     super().__init__(content, status_code, headers, media_type, background)
+    |     ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    |     self.body = self.render(content)
+    |                 ~~~~~~~~~~~^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    |     return json.dumps(
+    |            ~~~~~~~~~~^
+    |         content,
+    |         ^^^^^^^^
+    |     ...<3 lines>...
+    |         separators=(",", ":"),
+    |         ^^^^^^^^^^^^^^^^^^^^^^
+    |     ).encode("utf-8")
+    |     ^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    |     **kw).encode(obj)
+    |           ~~~~~~^^^^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    |     chunks = self.iterencode(o, _one_shot=True)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    |     return _iterencode(o, 0)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    |     raise TypeError(f'Object of type {o.__class__.__name__} '
+    |                     f'is not JSON serializable')
+    | TypeError: Object of type datetime is not JSON serializable
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 117, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    response = await handler(conn, exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    return JSONResponse(
+        {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    )
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    self.body = self.render(content)
+                ~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    return json.dumps(
+           ~~~~~~~~~~^
+        content,
+        ^^^^^^^^
+    ...<3 lines>...
+        separators=(",", ":"),
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ).encode("utf-8")
+    ^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type datetime is not JSON serializable
+2025-08-24 11:01:21,802 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 11:01:26,234 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 11:01:26,235 - app.main - INFO - API Version: 1.0.0
+2025-08-24 11:01:26,235 - app.main - INFO - Debug Mode: False
+2025-08-24 11:01:26,236 - app.main - INFO - Initializing ML models...
+2025-08-24 11:01:26,236 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 11:01:26,238 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 11:01:26,238 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 11:01:26,239 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 11:01:26,239 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 11:36:05,831 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 11:36:10,106 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 11:36:10,107 - app.main - INFO - API Version: 1.0.0
+2025-08-24 11:36:10,107 - app.main - INFO - Debug Mode: False
+2025-08-24 11:36:10,108 - app.main - INFO - Initializing ML models...
+2025-08-24 11:36:10,108 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 11:36:10,110 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 11:36:10,110 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 11:36:10,111 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 11:36:10,111 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 12:36:53,919 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 12:36:53,949 - app.api.v1.endpoints.predictions - INFO - Received prediction request for Yellowfin tuna - Kelawalla
+2025-08-24 12:36:53,949 - app.services.prediction_service - INFO - Making prediction for Yellowfin tuna - Kelawalla, 7 days
+2025-08-24 12:36:53,950 - app.services.prediction_service - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 12:36:53,951 - app.api.v1.endpoints.predictions - ERROR - Prediction error: Models not loaded. Call load_models() first.
+2025-08-24 12:36:53,957 - app.main - ERROR - Unexpected error in POST http://127.0.0.1:8000/api/v1/predict: Object of type datetime is not JSON serializable
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 77, in collapse_excgroups
+  |     yield
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 183, in __call__
+  |     async with anyio.create_task_group() as task_group:
+  |                ~~~~~~~~~~~~~~~~~~~~~~~^^
+  |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\anyio\_backends\_asyncio.py", line 772, in __aexit__
+  |     raise BaseExceptionGroup(
+  |         "unhandled errors in a TaskGroup", self._exceptions
+  |     ) from None
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    |     await self.app(scope, receive, _send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 117, in log_requests
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    |     await self.simple_response(scope, receive, send, request_headers=headers)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    |     with recv_stream, send_stream, collapse_excgroups():
+    |                                    ~~~~~~~~~~~~~~~~~~^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    |     self.gen.throw(value)
+    |     ~~~~~~~~~~~~~~^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    |     response = await self.dispatch_func(request, call_next)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    |     response = await call_next(request)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    |     raise app_exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    |     await self.app(scope, receive_or_disconnect, send_no_error)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    |     await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    |     raise exc
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    |     await app(scope, receive, sender)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    |     await self.middleware_stack(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    |     await route.handle(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    |     await self.app(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    |     await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    |     response = await handler(conn, exc)
+    |                ^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    |     return JSONResponse(
+    |         {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    |     )
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    |     super().__init__(content, status_code, headers, media_type, background)
+    |     ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    |     self.body = self.render(content)
+    |                 ~~~~~~~~~~~^^^^^^^^^
+    |   File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    |     return json.dumps(
+    |            ~~~~~~~~~~^
+    |         content,
+    |         ^^^^^^^^
+    |     ...<3 lines>...
+    |         separators=(",", ":"),
+    |         ^^^^^^^^^^^^^^^^^^^^^^
+    |     ).encode("utf-8")
+    |     ^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    |     **kw).encode(obj)
+    |           ~~~~~~^^^^^
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    |     chunks = self.iterencode(o, _one_shot=True)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    |     return _iterencode(o, 0)
+    |   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    |     raise TypeError(f'Object of type {o.__class__.__name__} '
+    |                     f'is not JSON serializable')
+    | TypeError: Object of type datetime is not JSON serializable
+    +------------------------------------
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\app\main.py", line 117, in log_requests
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\trustedhost.py", line 36, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 93, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\cors.py", line 144, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 182, in __call__
+    with recv_stream, send_stream, collapse_excgroups():
+                                   ~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_utils.py", line 83, in collapse_excgroups
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 184, in __call__
+    response = await self.dispatch_func(request, call_next)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\slowapi\middleware.py", line 136, in dispatch
+    response = await call_next(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 159, in call_next
+    raise app_exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\base.py", line 144, in coro
+    await self.app(scope, receive_or_disconnect, send_no_error)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 290, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\routing.py", line 78, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\_exception_handler.py", line 59, in wrapped_app
+    response = await handler(conn, exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\fastapi\exception_handlers.py", line 15, in http_exception_handler
+    return JSONResponse(
+        {"detail": exc.detail}, status_code=exc.status_code, headers=headers
+    )
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 190, in __init__
+    super().__init__(content, status_code, headers, media_type, background)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 47, in __init__
+    self.body = self.render(content)
+                ~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\venv\Lib\site-packages\starlette\responses.py", line 193, in render
+    return json.dumps(
+           ~~~~~~~~~~^
+        content,
+        ^^^^^^^^
+    ...<3 lines>...
+        separators=(",", ":"),
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ).encode("utf-8")
+    ^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ~~~~~~^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 261, in iterencode
+    return _iterencode(o, 0)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2032.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type datetime is not JSON serializable
+2025-08-24 12:46:03,281 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 12:46:08,546 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 12:46:08,547 - app.main - INFO - API Version: 1.0.0
+2025-08-24 12:46:08,547 - app.main - INFO - Debug Mode: False
+2025-08-24 12:46:08,548 - app.main - INFO - Initializing ML models...
+2025-08-24 12:46:08,548 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 12:46:08,550 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:08,550 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:08,551 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:08,552 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 12:46:12,818 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 12:46:12,819 - app.main - INFO - API Version: 1.0.0
+2025-08-24 12:46:12,819 - app.main - INFO - Debug Mode: False
+2025-08-24 12:46:12,820 - app.main - INFO - Initializing ML models...
+2025-08-24 12:46:12,820 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 12:46:12,821 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:12,821 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:12,822 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:12,822 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 12:46:17,810 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 12:46:17,811 - app.main - INFO - API Version: 1.0.0
+2025-08-24 12:46:17,811 - app.main - INFO - Debug Mode: False
+2025-08-24 12:46:17,811 - app.main - INFO - Initializing ML models...
+2025-08-24 12:46:17,812 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 12:46:17,813 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:17,814 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:17,814 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:17,815 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 12:46:41,958 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 12:46:47,182 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 12:46:47,183 - app.main - INFO - API Version: 1.0.0
+2025-08-24 12:46:47,183 - app.main - INFO - Debug Mode: False
+2025-08-24 12:46:47,184 - app.main - INFO - Initializing ML models...
+2025-08-24 12:46:47,184 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 12:46:47,185 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:47,188 - app.models.ml_models - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:47,191 - app.main - ERROR - Failed to initialize models: Model loading failed: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:47,192 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 12:46:51,724 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 12:46:51,725 - app.main - INFO - API Version: 1.0.0
+2025-08-24 12:46:51,726 - app.main - INFO - Debug Mode: False
+2025-08-24 12:46:51,727 - app.main - INFO - Initializing ML models...
+2025-08-24 12:46:51,728 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 12:46:51,730 - app.models.ml_models - ERROR - Failed to load models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:46:51,731 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-24 12:46:51,731 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-24 12:46:51,732 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-24 12:46:51,732 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-24 12:46:51,732 - app.main - INFO - ML models loaded successfully
+2025-08-24 12:46:51,733 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 12:47:00,334 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 12:47:04,620 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 12:47:04,620 - app.main - INFO - API Version: 1.0.0
+2025-08-24 12:47:04,621 - app.main - INFO - Debug Mode: False
+2025-08-24 12:47:04,621 - app.main - INFO - Initializing ML models...
+2025-08-24 12:47:04,622 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 12:47:04,623 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 12:47:04,624 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-24 12:47:04,624 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-24 12:47:04,625 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-24 12:47:04,625 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-24 12:47:04,626 - app.main - INFO - ML models loaded successfully
+2025-08-24 12:47:04,626 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 12:48:26,791 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 12:48:26,806 - app.api.v1.endpoints.predictions - INFO - Received prediction request for Yellowfin tuna - Kelawalla
+2025-08-24 12:48:26,806 - app.services.prediction_service - INFO - Making prediction for Yellowfin tuna - Kelawalla, 7 days
+2025-08-24 12:48:26,841 - app.services.prediction_service - INFO - Prediction completed successfully for Yellowfin tuna - Kelawalla
+2025-08-24 12:48:26,842 - app.api.v1.endpoints.predictions - INFO - Prediction successful for Yellowfin tuna - Kelawalla
+2025-08-24 12:48:26,843 - app.main - INFO - Response: 200 - 0.0521s
+2025-08-24 14:10:55,675 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 14:10:55,689 - app.api.v1.endpoints.predictions - INFO - Received prediction request for Yellowfin tuna - Kelawalla
+2025-08-24 14:10:55,700 - app.services.prediction_service - INFO - Making prediction for Yellowfin tuna - Kelawalla, 7 days
+2025-08-24 14:10:55,728 - app.services.prediction_service - INFO - Prediction completed successfully for Yellowfin tuna - Kelawalla
+2025-08-24 14:10:55,729 - app.api.v1.endpoints.predictions - INFO - Prediction successful for Yellowfin tuna - Kelawalla
+2025-08-24 14:10:55,730 - app.main - INFO - Response: 200 - 0.0561s
+2025-08-24 14:15:22,507 - app.main - INFO - Request: GET http://127.0.0.1:8000/api/v1/fish-types
+2025-08-24 14:15:22,511 - app.api.v1.endpoints.predictions - INFO - Retrieved 7 supported fish types
+2025-08-24 14:15:22,512 - app.main - INFO - Response: 200 - 0.0047s
+2025-08-24 14:32:47,815 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 14:33:39,021 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 14:33:39,022 - app.main - INFO - API Version: 1.0.0
+2025-08-24 14:33:39,022 - app.main - INFO - Debug Mode: False
+2025-08-24 14:33:39,023 - app.main - INFO - Initializing ML models...
+2025-08-24 14:33:39,023 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 14:33:39,047 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 14:33:39,048 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-24 14:33:39,048 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-24 14:33:39,049 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-24 14:33:39,050 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-24 14:33:39,050 - app.main - INFO - ML models loaded successfully
+2025-08-24 14:33:39,051 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 14:33:42,953 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 14:33:42,953 - app.main - INFO - API Version: 1.0.0
+2025-08-24 14:33:42,954 - app.main - INFO - Debug Mode: False
+2025-08-24 14:33:42,954 - app.main - INFO - Initializing ML models...
+2025-08-24 14:33:42,955 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 14:33:42,955 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 14:33:42,956 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-24 14:33:42,956 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-24 14:33:42,957 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-24 14:33:42,957 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-24 14:33:42,957 - app.main - INFO - ML models loaded successfully
+2025-08-24 14:33:42,958 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 14:35:07,887 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 14:35:12,498 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 14:35:12,498 - app.main - INFO - API Version: 1.0.0
+2025-08-24 14:35:12,499 - app.main - INFO - Debug Mode: False
+2025-08-24 14:35:12,499 - app.main - INFO - Initializing ML models...
+2025-08-24 14:35:12,502 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 14:35:12,503 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 14:35:12,512 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-24 14:35:12,512 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-24 14:35:12,512 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-24 14:35:12,513 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-24 14:35:12,513 - app.main - INFO - ML models loaded successfully
+2025-08-24 14:35:12,514 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 14:35:17,560 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-24 14:35:17,570 - app.api.v1.endpoints.predictions - INFO - Received prediction request for Yellowfin tuna - Kelawalla
+2025-08-24 14:35:17,571 - app.services.prediction_service - INFO - Making prediction for Yellowfin tuna - Kelawalla, 7 days
+2025-08-24 14:35:17,580 - app.services.prediction_service - INFO - Prediction completed successfully for Yellowfin tuna - Kelawalla
+2025-08-24 14:35:17,580 - app.api.v1.endpoints.predictions - INFO - Prediction successful for Yellowfin tuna - Kelawalla
+2025-08-24 14:35:17,581 - app.main - INFO - Response: 200 - 0.0211s
+2025-08-24 14:36:10,142 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-24 14:36:14,956 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 14:36:14,956 - app.main - INFO - API Version: 1.0.0
+2025-08-24 14:36:14,957 - app.main - INFO - Debug Mode: False
+2025-08-24 14:36:14,957 - app.main - INFO - Initializing ML models...
+2025-08-24 14:36:14,958 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 14:36:14,959 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 14:36:14,960 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-24 14:36:14,960 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-24 14:36:14,961 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-24 14:36:14,961 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-24 14:36:14,961 - app.main - INFO - ML models loaded successfully
+2025-08-24 14:36:14,962 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-24 14:36:19,824 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-24 14:36:19,825 - app.main - INFO - API Version: 1.0.0
+2025-08-24 14:36:19,825 - app.main - INFO - Debug Mode: False
+2025-08-24 14:36:19,826 - app.main - INFO - Initializing ML models...
+2025-08-24 14:36:19,826 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-24 14:36:19,827 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-24 14:36:19,828 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-24 14:36:19,828 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-24 14:36:19,829 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-24 14:36:19,829 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-24 14:36:19,830 - app.main - INFO - ML models loaded successfully
+2025-08-24 14:36:19,831 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 12:24:48,334 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 12:24:48,335 - app.main - INFO - API Version: 1.0.0
+2025-08-27 12:24:48,336 - app.main - INFO - Debug Mode: False
+2025-08-27 12:24:48,337 - app.main - INFO - Initializing ML models...
+2025-08-27 12:24:48,337 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 12:24:48,371 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 12:24:48,371 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 12:24:48,372 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 12:24:48,373 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 12:24:48,373 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 12:24:48,374 - app.main - INFO - ML models loaded successfully
+2025-08-27 12:24:48,374 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 12:24:48,449 - app.main - INFO - Request: GET http://127.0.0.1:8000/docs
+2025-08-27 12:24:48,452 - app.main - INFO - Response: 200 - 0.0028s
+2025-08-27 12:24:48,900 - app.main - INFO - Request: GET http://127.0.0.1:8000/openapi.json
+2025-08-27 12:24:48,952 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-08-27 12:24:48,978 - app.main - INFO - Response: 200 - 0.0775s
+2025-08-27 19:24:50,078 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 19:24:50,079 - app.main - INFO - API Version: 1.0.0
+2025-08-27 19:24:50,079 - app.main - INFO - Debug Mode: False
+2025-08-27 19:24:50,079 - app.main - INFO - Initializing ML models...
+2025-08-27 19:24:50,080 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 19:24:50,097 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 19:24:50,097 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 19:24:50,097 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 19:24:50,098 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 19:24:50,098 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 19:24:50,099 - app.main - INFO - ML models loaded successfully
+2025-08-27 19:24:50,099 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 19:24:50,359 - app.main - INFO - Request: GET http://127.0.0.1:8000/
+2025-08-27 19:24:50,362 - app.main - INFO - Response: 200 - 0.0030s
+2025-08-27 19:24:50,465 - app.main - INFO - Request: GET http://127.0.0.1:8000/favicon.ico
+2025-08-27 19:24:50,467 - app.main - INFO - Response: 404 - 0.0013s
+2025-08-27 19:24:53,142 - app.main - INFO - Request: GET http://127.0.0.1:8000/docs
+2025-08-27 19:24:53,144 - app.main - INFO - Response: 200 - 0.0014s
+2025-08-27 19:24:53,415 - app.main - INFO - Request: GET http://127.0.0.1:8000/openapi.json
+2025-08-27 19:24:53,433 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-08-27 19:24:53,443 - app.main - INFO - Response: 200 - 0.0286s
+2025-08-27 19:25:07,161 - app.main - INFO - Request: GET http://127.0.0.1:8000/docs
+2025-08-27 19:25:07,167 - app.main - INFO - Response: 200 - 0.0062s
+2025-08-27 19:25:07,761 - app.main - INFO - Request: GET http://127.0.0.1:8000/openapi.json
+2025-08-27 19:25:07,762 - app.main - INFO - Response: 200 - 0.0012s
+2025-08-27 19:30:56,577 - app.main - INFO - Request: GET http://127.0.0.1:8000/health
+2025-08-27 19:30:56,580 - app.main - INFO - Response: 200 - 0.0033s
+2025-08-27 19:38:12,541 - app.main - INFO - Request: POST http://127.0.0.1:8000/api/v1/predict
+2025-08-27 19:38:12,547 - app.api.v1.endpoints.predictions - INFO - Received prediction request for Yellowfin tuna - Kelawalla
+2025-08-27 19:38:12,547 - app.services.prediction_service - INFO - Making prediction for Yellowfin tuna - Kelawalla, 7 days
+2025-08-27 19:38:12,633 - app.services.prediction_service - INFO - Prediction completed successfully for Yellowfin tuna - Kelawalla
+2025-08-27 19:38:12,634 - app.api.v1.endpoints.predictions - INFO - Prediction successful for Yellowfin tuna - Kelawalla
+2025-08-27 19:38:12,635 - app.main - INFO - Response: 200 - 0.0934s
+2025-08-27 20:00:53,742 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-27 20:00:56,865 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:00:56,866 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:00:56,866 - app.main - INFO - Debug Mode: False
+2025-08-27 20:00:56,866 - app.main - INFO - Initializing ML models...
+2025-08-27 20:00:56,866 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:00:56,867 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:00:56,867 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:00:56,868 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:00:56,868 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:00:56,868 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:00:56,868 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:00:56,869 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:01:18,024 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-27 20:01:20,953 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:01:20,953 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:01:20,954 - app.main - INFO - Debug Mode: False
+2025-08-27 20:01:20,954 - app.main - INFO - Initializing ML models...
+2025-08-27 20:01:20,954 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:01:20,955 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:01:20,955 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:01:20,955 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:01:20,955 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:01:20,955 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:01:20,956 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:01:20,956 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:01:54,579 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-27 20:01:57,252 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:01:57,252 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:01:57,252 - app.main - INFO - Debug Mode: False
+2025-08-27 20:01:57,252 - app.main - INFO - Initializing ML models...
+2025-08-27 20:01:57,253 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:01:57,253 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:01:57,254 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:01:57,254 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:01:57,254 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:01:57,254 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:01:57,254 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:01:57,255 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:13:23,365 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-27 20:13:26,461 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:13:26,461 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:13:26,461 - app.main - INFO - Debug Mode: False
+2025-08-27 20:13:26,462 - app.main - INFO - Initializing ML models...
+2025-08-27 20:13:26,462 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:13:26,463 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:13:26,463 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:13:26,463 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:13:26,463 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:13:26,463 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:13:26,464 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:13:26,464 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:13:30,161 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:13:30,164 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:13:30,166 - app.main - INFO - Debug Mode: False
+2025-08-27 20:13:30,167 - app.main - INFO - Initializing ML models...
+2025-08-27 20:13:30,169 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:13:30,170 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:13:30,170 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:13:30,171 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:13:30,172 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:13:30,172 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:13:30,172 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:13:30,172 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:13:33,623 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:13:33,623 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:13:33,623 - app.main - INFO - Debug Mode: False
+2025-08-27 20:13:33,624 - app.main - INFO - Initializing ML models...
+2025-08-27 20:13:33,624 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:13:33,625 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:13:33,626 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:13:33,626 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:13:33,626 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:13:33,627 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:13:33,627 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:13:33,627 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:13:36,251 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:13:36,251 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:13:36,252 - app.main - INFO - Debug Mode: False
+2025-08-27 20:13:36,252 - app.main - INFO - Initializing ML models...
+2025-08-27 20:13:36,252 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:13:36,253 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:13:36,253 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:13:36,254 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:13:36,254 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:13:36,254 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:13:36,254 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:13:36,255 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:13:38,752 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:13:38,752 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:13:38,753 - app.main - INFO - Debug Mode: False
+2025-08-27 20:13:38,753 - app.main - INFO - Initializing ML models...
+2025-08-27 20:13:38,753 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:13:38,754 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:13:38,754 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:13:38,754 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:13:38,755 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:13:38,755 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:13:38,755 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:13:38,756 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:13:42,681 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-27 20:13:45,005 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:13:45,005 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:13:45,006 - app.main - INFO - Debug Mode: False
+2025-08-27 20:13:45,006 - app.main - INFO - Initializing ML models...
+2025-08-27 20:13:45,006 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:13:45,007 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:13:45,007 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:13:45,007 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:13:45,007 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:13:45,008 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:13:45,008 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:13:45,008 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:14:14,586 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-27 20:14:17,072 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:14:17,073 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:14:17,073 - app.main - INFO - Debug Mode: False
+2025-08-27 20:14:17,073 - app.main - INFO - Initializing ML models...
+2025-08-27 20:14:17,073 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:14:17,074 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:14:17,075 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:14:17,075 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:14:17,075 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:14:17,075 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:14:17,076 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:14:17,076 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:14:38,485 - app.main - INFO - Shutting down Fish Price Prediction API...
+2025-08-27 20:14:41,044 - app.main - INFO - Starting Fish Price Prediction API...
+2025-08-27 20:14:41,044 - app.main - INFO - API Version: 1.0.0
+2025-08-27 20:14:41,045 - app.main - INFO - Debug Mode: False
+2025-08-27 20:14:41,045 - app.main - INFO - Initializing ML models...
+2025-08-27 20:14:41,045 - app.models.ml_models - INFO - Loading fish price prediction models...
+2025-08-27 20:14:41,046 - app.models.ml_models - ERROR - Failed to load real models: Can't get attribute 'Config' on <module '__main__' (<class '_frozen_importlib.BuiltinImporter'>)>
+2025-08-27 20:14:41,047 - app.models.ml_models - INFO - Creating mock models as fallback...
+2025-08-27 20:14:41,047 - app.models.ml_models - INFO - Creating mock models for testing purposes...
+2025-08-27 20:14:41,047 - app.models.ml_models - INFO - Mock models created successfully
+2025-08-27 20:14:41,047 - app.models.ml_models - INFO - Models initialized successfully
+2025-08-27 20:14:41,047 - app.main - INFO - ML models loaded successfully
+2025-08-27 20:14:41,048 - app.main - INFO - Fish Price Prediction API started successfully
+2025-08-27 20:15:04,440 - app.main - INFO - Shutting down Fish Price Prediction API...

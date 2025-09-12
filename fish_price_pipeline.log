@@ -1,0 +1,31 @@
+2025-09-08 07:47:50,623 - INFO - Model will be saved to: models/fish_price_pipeline_pipeline.pkl and models/fish_price_pipeline_model.pkl
+2025-09-08 07:47:50,624 - INFO - Models directory exists: True
+2025-09-08 07:47:50,625 - ERROR - Training failed: No module named 'scripts.fish_price_pipeline'
+Traceback (most recent call last):
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\scripts\fixed_train_model.py", line 46, in main
+    from scripts.fish_price_pipeline import Config, FishPricePipeline
+ModuleNotFoundError: No module named 'scripts.fish_price_pipeline'
+2025-09-08 07:48:35,229 - INFO - Model will be saved to: models/fish_price_pipeline_pipeline.pkl and models/fish_price_pipeline_model.pkl
+2025-09-08 07:48:35,230 - INFO - Models directory exists: True
+2025-09-08 07:48:35,231 - ERROR - Training failed: No module named 'scripts.fish_price_pipeline'
+Traceback (most recent call last):
+  File "C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\scripts\fixed_train_model.py", line 46, in main
+    from scripts.fish_price_pipeline import Config, FishPricePipeline
+ModuleNotFoundError: No module named 'scripts.fish_price_pipeline'
+2025-09-08 07:49:55,101 - INFO - Model will be saved to: models/fish_price_pipeline_pipeline.pkl and models/fish_price_pipeline_model.pkl
+2025-09-08 07:49:55,101 - INFO - Models directory exists: True
+2025-09-08 07:49:55,199 - INFO - Loaded data with shape: (7339, 38)
+2025-09-08 07:49:55,200 - INFO - Processing data...
+2025-09-08 07:49:55,277 - INFO - Removed 268 rows with all missing targets
+2025-09-08 07:49:55,566 - INFO - Feature engineering completed. Total features: 60
+2025-09-08 07:49:55,604 - INFO - Data split - Train: 4213, Val: 1449, Test: 1409
+2025-09-08 07:50:00,124 - INFO - Created 2093 sequences for train dataset
+2025-09-08 07:50:01,485 - INFO - Created 567 sequences for val dataset
+2025-09-08 07:50:03,021 - INFO - Created 644 sequences for test dataset
+2025-09-08 07:50:03,022 - INFO - Preparing Random Forest features...
+2025-09-08 07:50:03,304 - INFO - Random Forest feature shape: (2093, 360)
+2025-09-08 07:50:03,305 - INFO - Training Random Forest for avg_ws_price with 2010 samples
+2025-09-08 07:50:14,233 - INFO - Training Random Forest for avg_rt_price with 1999 samples
+2025-09-08 07:50:24,896 - INFO - Random Forest training completed!
+2025-09-08 07:50:25,319 - INFO - Pipeline and model saved to models/fish_price_pipeline_...
+2025-09-08 07:50:25,388 - INFO - Removed 268 rows with all missing targets
