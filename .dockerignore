@@ -1,0 +1,134 @@
+# Git
+.git
+.gitignore
+README.md
+*.md
+CHANGELOG.md
+LICENSE
+
+# Python cache and bytecode
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.tox/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+.vim
+.netrwhist
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs (exclude from image, mount as volume)
+logs/
+*.log
+
+# Docker files (don't include in image)
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+
+# Development and test files
+.env.local
+.env.development
+.env.test
+.env.example
+tests/
+test_*/
+*_test.py
+spec/
+docs/
+documentation/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Temporary files
+tmp/
+temp/
+.tmp
+
+# Node.js (if any frontend assets)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# SSL certificates (should be mounted as volumes)
+ssl/
+*.pem
+*.crt
+*.key
+*.p12
+
+# Backup files
+*.bak
+*.backup
+*~
+.swp
+
+# Model files that are too large (mount as volumes instead)
+# Uncomment if you have large model files
+# *.pkl
+# *.joblib
+# *.h5
+# *.pb
+
+# Data files (mount as volumes)
+data/
+datasets/
+*.csv
+*.json
+
+# Configuration files with secrets
+.env
+.env.production
+config/secrets.*
+
+# Scripts and utilities not needed in container
+scripts/
+tools/
+utils/deploy.sh
+setup.sh

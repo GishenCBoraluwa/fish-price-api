@@ -1299,3 +1299,135 @@
 2025-09-10 03:02:58 - app.models.ml_models - INFO - ml_models - predict - Generated 7 day predictions for avg_rt_price
 2025-09-10 03:02:58 - app.services.prediction_service - INFO - prediction_service - make_prediction - Optimized prediction completed for Indian Scad - Linna
 2025-09-10 03:02:58 - app.api.v1.endpoints.predictions - INFO - predictions - predict_fish_prices - Optimized prediction successful for Indian Scad - Linna
+2025-09-14 03:09:28 - app.main - INFO - main - lifespan - Starting Fish Price Prediction API...
+2025-09-14 03:09:28 - app.main - INFO - main - lifespan - Initializing data manager...
+2025-09-14 03:09:28 - app.core.data_manager - INFO - data_manager - initialize - Initializing data manager...
+2025-09-14 03:09:28 - app.core.data_manager - INFO - data_manager - initialize - Loading raw data from data\raw\Final data set 2025 08 10.csv
+2025-09-14 03:09:28 - app.core.data_manager - INFO - data_manager - initialize - Loaded raw data: (7339, 38)
+2025-09-14 03:09:28 - app.core.data_manager - INFO - data_manager - _process_data - Removed 268 rows with all missing targets
+2025-09-14 03:09:28 - app.core.data_manager - INFO - data_manager - initialize - Processed data: (7071, 69)
+2025-09-14 03:09:28 - app.core.data_manager - INFO - data_manager - _create_fish_encodings - Created encodings for 7 fish types
+2025-09-14 03:09:28 - app.core.data_manager - INFO - data_manager - _cache_fish_features - Cached features for 7 fish types
+2025-09-14 03:09:28 - app.core.data_manager - INFO - data_manager - _cache_rolling_statistics - Cached rolling stats for 7 fish types
+2025-09-14 03:09:28 - app.core.data_manager - INFO - data_manager - initialize - Data manager initialized successfully
+2025-09-14 03:09:28 - app.main - INFO - main - lifespan - Initializing ML models...
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - load_models - Loading fish price prediction models...
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - load_models - Looking for pipeline at: C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\models\fish_price_pipeline_pipeline.pkl
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - load_models - Looking for model at: C:\Users\gishe\Desktop\Research\Project\API\fish-price-api\models\fish_price_pipeline_model.pkl
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - load_models - Loading pipeline...
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - load_models - Pipeline loaded successfully
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - load_models - Pipeline keys: dict_keys(['processor_info', 'config', 'model_type', 'feature_count'])
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - load_models - Loading models...
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - load_models - Models loaded successfully
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - load_models - Loaded models: avg_ws_price: RandomForestRegressor(n_estimators=100), avg_rt_price: RandomForestRegressor(n_estimators=100)
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - load_models - Real models loaded successfully!
+2025-09-14 03:09:28 - app.models.ml_models - INFO - ml_models - initialize_models - Models initialized successfully
+2025-09-14 03:09:28 - app.main - INFO - main - lifespan - Application startup completed
+2025-09-14 03:09:47 - app.api.v1.endpoints.predictions - INFO - predictions - predict_fish_prices - Received optimized prediction request for Herrings - Hurulla
+2025-09-14 03:09:47 - app.services.prediction_service - INFO - prediction_service - make_prediction - Making optimized prediction for Herrings - Hurulla, 7 days
+2025-09-14 03:09:47 - app.models.ml_models - INFO - ml_models - predict - Making prediction for Herrings - Hurulla, 7 days
+2025-09-14 03:09:47 - app.models.data_processor - INFO - data_processor - _get_training_feature_columns - Using 60 feature columns for prediction
+2025-09-14 03:09:47 - app.models.data_processor - INFO - data_processor - _create_statistical_features - Created feature vector with 360 features
+2025-09-14 03:09:47 - app.models.data_processor - WARNING - data_processor - _create_statistical_features - Feature count mismatch: got 360, expected 294
+2025-09-14 03:09:47 - app.models.ml_models - INFO - ml_models - _prepare_model_features - Using pre-built feature vector with shape: (1, 294)
+2025-09-14 03:09:47 - app.models.ml_models - INFO - ml_models - predict - Prepared model features shape: (1, 294)
+2025-09-14 03:09:47 - app.models.ml_models - INFO - ml_models - predict - Using model for avg_ws_price: RandomForestRegressor
+2025-09-14 03:09:47 - app.models.ml_models - INFO - ml_models - predict - Base prediction for avg_ws_price: 705.6940873015876
+2025-09-14 03:09:47 - app.models.ml_models - INFO - ml_models - predict - Generated 7 day predictions for avg_ws_price
+2025-09-14 03:09:47 - app.models.ml_models - INFO - ml_models - predict - Using model for avg_rt_price: RandomForestRegressor
+2025-09-14 03:09:47 - app.models.ml_models - INFO - ml_models - predict - Base prediction for avg_rt_price: 612.6297023809524
+2025-09-14 03:09:47 - app.models.ml_models - INFO - ml_models - predict - Generated 7 day predictions for avg_rt_price
+2025-09-14 03:09:47 - app.services.prediction_service - INFO - prediction_service - make_prediction - Optimized prediction completed for Herrings - Hurulla
+2025-09-14 03:09:47 - app.api.v1.endpoints.predictions - INFO - predictions - predict_fish_prices - Optimized prediction successful for Herrings - Hurulla
+2025-09-14 03:10:07 - app.api.v1.endpoints.predictions - INFO - predictions - predict_fish_prices - Received optimized prediction request for Herrings - Hurulla
+2025-09-14 03:10:07 - app.services.prediction_service - INFO - prediction_service - make_prediction - Making optimized prediction for Herrings - Hurulla, 7 days
+2025-09-14 03:10:07 - app.models.ml_models - INFO - ml_models - predict - Making prediction for Herrings - Hurulla, 7 days
+2025-09-14 03:10:07 - app.models.data_processor - INFO - data_processor - _get_training_feature_columns - Using 60 feature columns for prediction
+2025-09-14 03:10:07 - app.models.data_processor - INFO - data_processor - _create_statistical_features - Created feature vector with 360 features
+2025-09-14 03:10:07 - app.models.data_processor - WARNING - data_processor - _create_statistical_features - Feature count mismatch: got 360, expected 294
+2025-09-14 03:10:07 - app.models.ml_models - INFO - ml_models - _prepare_model_features - Using pre-built feature vector with shape: (1, 294)
+2025-09-14 03:10:07 - app.models.ml_models - INFO - ml_models - predict - Prepared model features shape: (1, 294)
+2025-09-14 03:10:07 - app.models.ml_models - INFO - ml_models - predict - Using model for avg_ws_price: RandomForestRegressor
+2025-09-14 03:10:07 - app.models.ml_models - INFO - ml_models - predict - Base prediction for avg_ws_price: 705.6940873015874
+2025-09-14 03:10:07 - app.models.ml_models - INFO - ml_models - predict - Generated 7 day predictions for avg_ws_price
+2025-09-14 03:10:07 - app.models.ml_models - INFO - ml_models - predict - Using model for avg_rt_price: RandomForestRegressor
+2025-09-14 03:10:07 - app.models.ml_models - INFO - ml_models - predict - Base prediction for avg_rt_price: 612.6297023809524
+2025-09-14 03:10:07 - app.models.ml_models - INFO - ml_models - predict - Generated 7 day predictions for avg_rt_price
+2025-09-14 03:10:07 - app.services.prediction_service - INFO - prediction_service - make_prediction - Optimized prediction completed for Herrings - Hurulla
+2025-09-14 03:10:07 - app.api.v1.endpoints.predictions - INFO - predictions - predict_fish_prices - Optimized prediction successful for Herrings - Hurulla
+2025-09-13 22:19:46 - app.main - INFO - main - lifespan - Starting Fish Price Prediction API...
+2025-09-13 22:19:46 - app.main - INFO - main - lifespan - Initializing data manager...
+2025-09-13 22:19:46 - app.core.data_manager - INFO - data_manager - initialize - Initializing data manager...
+2025-09-13 22:19:46 - app.core.data_manager - ERROR - data_manager - initialize - Raw data file not found: data/raw/Final data set 2025 08 10.csv
+2025-09-13 22:19:46 - app.main - ERROR - main - lifespan - Data manager initialization failed
+2025-09-13 22:19:46 - app.main - INFO - main - lifespan - Initializing ML models...
+2025-09-13 22:19:46 - app.models.ml_models - INFO - ml_models - load_models - Loading fish price prediction models...
+2025-09-13 22:19:46 - app.models.ml_models - INFO - ml_models - load_models - Looking for pipeline at: /app/models/fish_price_pipeline_pipeline.pkl
+2025-09-13 22:19:46 - app.models.ml_models - INFO - ml_models - load_models - Looking for model at: /app/models/fish_price_pipeline_model.pkl
+2025-09-13 22:19:46 - app.models.ml_models - INFO - ml_models - load_models - Loading pipeline...
+2025-09-13 22:19:46 - app.models.ml_models - INFO - ml_models - load_models - Pipeline loaded successfully
+2025-09-13 22:19:46 - app.models.ml_models - INFO - ml_models - load_models - Pipeline keys: dict_keys(['processor_info', 'config', 'model_type', 'feature_count'])
+2025-09-13 22:19:46 - app.models.ml_models - INFO - ml_models - load_models - Loading models...
+2025-09-13 22:19:47 - app.main - INFO - main - lifespan - Starting Fish Price Prediction API...
+2025-09-13 22:19:47 - app.main - INFO - main - lifespan - Initializing data manager...
+2025-09-13 22:19:47 - app.core.data_manager - INFO - data_manager - initialize - Initializing data manager...
+2025-09-13 22:19:47 - app.core.data_manager - ERROR - data_manager - initialize - Raw data file not found: data/raw/Final data set 2025 08 10.csv
+2025-09-13 22:19:47 - app.main - ERROR - main - lifespan - Data manager initialization failed
+2025-09-13 22:19:47 - app.main - INFO - main - lifespan - Initializing ML models...
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Loading fish price prediction models...
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Looking for pipeline at: /app/models/fish_price_pipeline_pipeline.pkl
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Looking for model at: /app/models/fish_price_pipeline_model.pkl
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Loading pipeline...
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Pipeline loaded successfully
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Pipeline keys: dict_keys(['processor_info', 'config', 'model_type', 'feature_count'])
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Loading models...
+2025-09-13 22:19:47 - app.main - INFO - main - lifespan - Starting Fish Price Prediction API...
+2025-09-13 22:19:47 - app.main - INFO - main - lifespan - Initializing data manager...
+2025-09-13 22:19:47 - app.core.data_manager - INFO - data_manager - initialize - Initializing data manager...
+2025-09-13 22:19:47 - app.core.data_manager - ERROR - data_manager - initialize - Raw data file not found: data/raw/Final data set 2025 08 10.csv
+2025-09-13 22:19:47 - app.main - ERROR - main - lifespan - Data manager initialization failed
+2025-09-13 22:19:47 - app.main - INFO - main - lifespan - Initializing ML models...
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Loading fish price prediction models...
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Looking for pipeline at: /app/models/fish_price_pipeline_pipeline.pkl
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Looking for model at: /app/models/fish_price_pipeline_model.pkl
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Loading pipeline...
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Pipeline loaded successfully
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Pipeline keys: dict_keys(['processor_info', 'config', 'model_type', 'feature_count'])
+2025-09-13 22:19:47 - app.models.ml_models - INFO - ml_models - load_models - Loading models...
+2025-09-13 22:19:58 - app.main - INFO - main - lifespan - Starting Fish Price Prediction API...
+2025-09-13 22:19:58 - app.main - INFO - main - lifespan - Initializing data manager...
+2025-09-13 22:19:58 - app.core.data_manager - INFO - data_manager - initialize - Initializing data manager...
+2025-09-13 22:19:58 - app.core.data_manager - ERROR - data_manager - initialize - Raw data file not found: data/raw/Final data set 2025 08 10.csv
+2025-09-13 22:19:58 - app.main - ERROR - main - lifespan - Data manager initialization failed
+2025-09-13 22:19:58 - app.main - INFO - main - lifespan - Initializing ML models...
+2025-09-13 22:19:58 - app.models.ml_models - INFO - ml_models - load_models - Loading fish price prediction models...
+2025-09-13 22:19:58 - app.models.ml_models - INFO - ml_models - load_models - Looking for pipeline at: /app/models/fish_price_pipeline_pipeline.pkl
+2025-09-13 22:19:58 - app.models.ml_models - INFO - ml_models - load_models - Looking for model at: /app/models/fish_price_pipeline_model.pkl
+2025-09-13 22:19:58 - app.models.ml_models - INFO - ml_models - load_models - Loading pipeline...
+2025-09-13 22:19:58 - app.models.ml_models - INFO - ml_models - load_models - Pipeline loaded successfully
+2025-09-13 22:19:58 - app.models.ml_models - INFO - ml_models - load_models - Pipeline keys: dict_keys(['processor_info', 'config', 'model_type', 'feature_count'])
+2025-09-13 22:19:58 - app.models.ml_models - INFO - ml_models - load_models - Loading models...
+2025-09-13 22:19:59 - app.models.ml_models - INFO - ml_models - load_models - Models loaded successfully
+2025-09-13 22:19:59 - app.models.ml_models - INFO - ml_models - load_models - Loaded models: avg_ws_price: RandomForestRegressor(n_estimators=100), avg_rt_price: RandomForestRegressor(n_estimators=100)
+2025-09-13 22:19:59 - app.models.ml_models - INFO - ml_models - load_models - Real models loaded successfully!
+2025-09-13 22:19:59 - app.models.ml_models - INFO - ml_models - initialize_models - Models initialized successfully
+2025-09-13 22:20:00 - app.main - INFO - main - lifespan - Application startup completed
+2025-09-13 22:19:58 - app.models.ml_models - INFO - ml_models - load_models - Models loaded successfully
+2025-09-13 22:19:58 - app.models.ml_models - INFO - ml_models - load_models - Models loaded successfully
+2025-09-13 22:20:01 - app.models.ml_models - INFO - ml_models - load_models - Loaded models: avg_ws_price: RandomForestRegressor(n_estimators=100), avg_rt_price: RandomForestRegressor(n_estimators=100)
+2025-09-13 22:20:01 - app.models.ml_models - INFO - ml_models - load_models - Loaded models: avg_ws_price: RandomForestRegressor(n_estimators=100), avg_rt_price: RandomForestRegressor(n_estimators=100)
+2025-09-13 22:20:01 - app.models.ml_models - INFO - ml_models - load_models - Real models loaded successfully!
+2025-09-13 22:19:58 - app.models.ml_models - INFO - ml_models - load_models - Models loaded successfully
+2025-09-13 22:20:01 - app.models.ml_models - INFO - ml_models - load_models - Real models loaded successfully!
+2025-09-13 22:20:01 - app.models.ml_models - INFO - ml_models - load_models - Loaded models: avg_ws_price: RandomForestRegressor(n_estimators=100), avg_rt_price: RandomForestRegressor(n_estimators=100)
+2025-09-13 22:20:01 - app.models.ml_models - INFO - ml_models - initialize_models - Models initialized successfully
+2025-09-13 22:20:01 - app.models.ml_models - INFO - ml_models - initialize_models - Models initialized successfully
+2025-09-13 22:20:01 - app.models.ml_models - INFO - ml_models - load_models - Real models loaded successfully!
+2025-09-13 22:20:01 - app.main - INFO - main - lifespan - Application startup completed
+2025-09-13 22:20:01 - app.main - INFO - main - lifespan - Application startup completed
+2025-09-13 22:20:01 - app.models.ml_models - INFO - ml_models - initialize_models - Models initialized successfully
+2025-09-13 22:20:01 - app.main - INFO - main - lifespan - Application startup completed
+2025-09-13 22:24:52 - app.main - INFO - main - lifespan - Shutting down Fish Price Prediction API...
+2025-09-13 22:24:53 - app.main - INFO - main - lifespan - Shutting down Fish Price Prediction API...
+2025-09-13 22:24:53 - app.main - INFO - main - lifespan - Shutting down Fish Price Prediction API...
+2025-09-13 22:24:53 - app.main - INFO - main - lifespan - Shutting down Fish Price Prediction API...
