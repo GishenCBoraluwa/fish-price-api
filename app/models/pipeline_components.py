@@ -7,7 +7,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 class Config:
-    # ...existing code from your Config class...
+    
     def __init__(self):
         # Data parameters
         self.horizon = 7

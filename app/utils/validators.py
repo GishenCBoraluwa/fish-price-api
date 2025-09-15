@@ -538,7 +538,7 @@ def validate_api_key(api_key: str) -> bool:
         return False
     
     # Basic API key format validation
-    # Adjust this based on your API key format requirements
+   
     if len(api_key) < 20 or len(api_key) > 100:
         return False
     

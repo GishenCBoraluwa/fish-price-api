@@ -1,6 +1,4 @@
-"""
-Data preprocessing script - run this to prepare your data for the optimized API
-"""
+
 import sys
 import os
 from pathlib import Path

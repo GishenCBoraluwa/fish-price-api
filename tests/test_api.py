@@ -165,7 +165,7 @@ class TestRateLimiting:
     
     def test_rate_limiting_basic(self):
         """Test that rate limiting is working"""
-        # This test might need adjustment based on your rate limiting configuration
+        
         # Make multiple rapid requests to test rate limiting
         responses = []
         for i in range(5):
@@ -501,7 +501,7 @@ class TestAuthenticationAndAuthorization:
     
     def test_no_auth_required_predictions(self):
         """Test that prediction endpoints don't require authentication currently"""
-        # Since your API doesn't implement auth yet, predictions should work without auth
+        
         with patch('app.models.ml_models.predictor') as mock_predictor:
             mock_predictor.is_loaded = True
             mock_predictor.predict.return_value = {

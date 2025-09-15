@@ -54,14 +54,14 @@ class Settings(BaseSettings):
     ALLOWED_HEADERS: List[str] = ["*"]
     
     # Security
-    SECRET_KEY: str = "your-secret-key-change-in-production"
+    SECRET_KEY: str = "secret-key-change-in-production"
     ACCESS_TOKEN_EXPIRE_MINUTES: int = 30
     
     # Performance Settings (ADD THESE MISSING FIELDS)
     ENABLE_CACHING: bool = True
     CACHE_TTL_SECONDS: int = 3600
     
-    # Supported fish types (should match your model training data)
+    
     SUPPORTED_FISH_TYPES: List[str] = [
         "Yellowfin tuna - Kelawalla", 
         "Sail fish - Thalapath", 

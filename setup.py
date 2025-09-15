@@ -1,7 +1,3 @@
-"""
-Quick fix script to resolve immediate startup issues
-Run this script before starting your API
-"""
 
 import os
 from pathlib import Path
@@ -42,7 +38,7 @@ ENABLE_CACHING=True
 CACHE_TTL_SECONDS=3600
 
 # Security (change in production!)
-SECRET_KEY=your-secret-key-change-in-production
+SECRET_KEY=secret-key-change-in-production
 """
     
     with open('.env', 'w') as f:
